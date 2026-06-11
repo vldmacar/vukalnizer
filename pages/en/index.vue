@@ -13,11 +13,11 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: 'en' },
-  title: 'Vulkanizer Boki — Kaluđerica | Tires, Rims, Balancing',
+  title: 'Vesa Vulkanizer — Kaluđerica | Tires, Rims, Balancing',
   meta: [
-    { name: 'description', content: 'Tire shop Boki in Kaluđerica — mounting, dismounting and balancing, used and new tires, steel and alloy rims. Rating 4.9★.' },
-    { property: 'og:title', content: 'Vulkanizer Boki — Kaluđerica' },
-    { property: 'og:description', content: 'Tires, rims, balancing. Fast, fair, professional. Rating 4.9★.' },
+    { name: 'description', content: 'Tire shop Vesa in Kaluđerica — mounting, dismounting and balancing, used and new tires, steel and alloy rims. Rating 4.2★.' },
+    { property: 'og:title', content: 'Vesa Vulkanizer — Kaluđerica' },
+    { property: 'og:description', content: 'Tires, rims, balancing. Fast, fair, professional. Rating 4.2★.' },
   ],
 })
 

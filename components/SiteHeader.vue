@@ -15,7 +15,7 @@
           </svg>
         </span>
         <span class="logo-text">
-          <strong>BOKI</strong>
+          <strong>VESA</strong>
           <small>VULKANIZER</small>
         </span>
       </a>

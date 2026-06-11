@@ -1,7 +1,7 @@
 const sr = {
   nav: {
     services: 'Usluge',
-    why: 'Zašto Boki',
+    why: 'Zašto Vesa',
     gallery: 'Galerija',
     location: 'Lokacija',
     book: 'Zakaži termin',
@@ -75,7 +75,7 @@ const sr = {
     options: ['Zamena guma', 'Balansiranje', 'Polovne gume', 'Nove gume', 'Felne (prodaja/ispravljanje/farbanje)', 'Drugo / nisam siguran'],
     cta: 'Pošalji na WhatsApp',
     note: 'Otvara WhatsApp sa popunjenom porukom — ništa se ne šalje automatski dok ti ne potvrdiš.',
-    waGreeting: 'Zdravo Boki! Želeo bih da zakažem termin.',
+    waGreeting: 'Zdravo Vesa! Želeo bih da zakažem termin.',
     waLabels: { name: 'Ime', phone: 'Telefon', service: 'Usluga', vehicle: 'Vozilo', tireSize: 'Dimenzija', when: 'Termin', note: 'Napomena' },
     waDefault: 'Zdravo, zanima me termin za gume.',
   },
@@ -88,12 +88,12 @@ const sr = {
     phone: 'Telefon',
     hours: 'Radno vreme',
     navBtn: 'Otvori navigaciju',
-    mapTitle: 'Mapa — Vulkanizer Boki',
+    mapTitle: 'Mapa — Vesa Vulkanizer',
     closed: 'Zatvoreno',
   },
   shopHours: [
-    { day: 'Ponedeljak — Petak', time: '08:00 — 16:00', closed: false },
-    { day: 'Subota', time: '08:00 — 14:00', closed: false },
+    { day: 'Ponedeljak — Petak', time: '08:30 — 16:00', closed: false },
+    { day: 'Subota', time: '08:30 — 14:00', closed: false },
     { day: 'Nedelja', time: 'Zatvoreno', closed: true },
   ],
   gallery: {
@@ -120,9 +120,9 @@ const sr = {
     ask: 'Pitaj',
   },
   chat: {
-    agentName: 'Boki — pomoćnik',
+    agentName: 'Vesa — pomoćnik',
     agentStatus: 'Obično odgovara odmah',
-    greeting: 'Zdravo! 👋 Ja sam Bokijev pomoćnik. Pitaj me o gumama, felnama, ceni ili kako da zakažeš — tu sam.',
+    greeting: 'Zdravo! 👋 Ja sam Vesin pomoćnik. Pitaj me o gumama, felnama, ceni ili kako da zakažeš — tu sam.',
     waBtn: 'Piši na WhatsApp',
     callBtn: 'Pozovi',
     waDefault: 'Zdravo, zanima me termin za gume.',
@@ -141,7 +141,7 @@ const sr = {
 const en = {
   nav: {
     services: 'Services',
-    why: 'Why Boki',
+    why: 'Why Vesa',
     gallery: 'Gallery',
     location: 'Location',
     book: 'Book Appointment',
@@ -215,7 +215,7 @@ const en = {
     options: ['Tire Change', 'Balancing', 'Used Tires', 'New Tires', 'Rims (sale/straightening/painting)', 'Other / not sure'],
     cta: 'Send via WhatsApp',
     note: 'Opens WhatsApp with a pre-filled message — nothing is sent automatically until you confirm.',
-    waGreeting: "Hello Boki! I'd like to book an appointment.",
+    waGreeting: "Hello Vesa! I'd like to book an appointment.",
     waLabels: { name: 'Name', phone: 'Phone', service: 'Service', vehicle: 'Vehicle', tireSize: 'Tire size', when: 'Appointment', note: 'Note' },
     waDefault: "Hello, I'd like to inquire about an appointment.",
   },
@@ -228,12 +228,12 @@ const en = {
     phone: 'Phone',
     hours: 'Working Hours',
     navBtn: 'Open Navigation',
-    mapTitle: 'Map — Vulkanizer Boki',
+    mapTitle: 'Map — Vesa Vulkanizer',
     closed: 'Closed',
   },
   shopHours: [
-    { day: 'Monday — Friday', time: '08:00 — 16:00', closed: false },
-    { day: 'Saturday', time: '08:00 — 14:00', closed: false },
+    { day: 'Monday — Friday', time: '08:30 — 16:00', closed: false },
+    { day: 'Saturday', time: '08:30 — 14:00', closed: false },
     { day: 'Sunday', time: 'Closed', closed: true },
   ],
   gallery: {
@@ -260,9 +260,9 @@ const en = {
     ask: 'Ask',
   },
   chat: {
-    agentName: 'Boki — Assistant',
+    agentName: 'Vesa — Assistant',
     agentStatus: 'Usually responds immediately',
-    greeting: "Hello! 👋 I'm Boki's assistant. Ask me about tires, rims, prices or how to book — I'm here to help.",
+    greeting: "Hello! 👋 I'm Vesa's assistant. Ask me about tires, rims, prices or how to book — I'm here to help.",
     waBtn: 'Write on WhatsApp',
     callBtn: 'Call',
     waDefault: "Hello, I'd like to inquire about an appointment.",

@@ -7,7 +7,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Vulkanizer Boki — Kaluđerica | Gume, felne, balansiranje',
+      title: 'Vesa Vulkanizer — Kaluđerica | Gume, felne, balansiranje',
       htmlAttrs: { lang: 'sr' },
       meta: [
         { charset: 'utf-8' },
@@ -15,14 +15,14 @@ export default defineNuxtConfig({
         {
           name: 'description',
           content:
-            'Vulkanizer Boki u Kaluđerici — montaža, demontaža i balansiranje guma, polovne i nove gume, čelične i alu felne. Ocena 4.9★. Vojvode Stepe Stepanovića, Kaluđerica. Tel: 063 290600.',
+            'Vesa Vulkanizer u Kaluđerici — montaža, demontaža i balansiranje guma, polovne i nove gume, čelične i alu felne. Ocena 4.2★. Živorada Jakovljevića 1, Kaluđerica. Tel: 063 203397.',
         },
         { name: 'theme-color', content: '#0c0c0d' },
         // Open Graph
-        { property: 'og:title', content: 'Vulkanizer Boki — Kaluđerica' },
+        { property: 'og:title', content: 'Vesa Vulkanizer — Kaluđerica' },
         {
           property: 'og:description',
-          content: 'Gume, felne, balansiranje. Brzo, pošteno, profesionalno. Ocena 4.9★.',
+          content: 'Gume, felne, balansiranje. Brzo, pošteno, profesionalno. Ocena 4.2★.',
         },
         { property: 'og:type', content: 'website' },
       ],
