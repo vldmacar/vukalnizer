@@ -1,7 +1,7 @@
 const sr = {
   nav: {
     services: 'Usluge',
-    why: 'Zašto Vesa',
+    why: 'Zašto ACA',
     gallery: 'Galerija',
     location: 'Lokacija',
     book: 'Zakaži termin',
@@ -40,7 +40,7 @@ const sr = {
     hl: 'Bez priče.',
     lead: 'Kod nas dolaziš kad treba da se uradi kako treba — brzo, korektno i bez naknadnih iznenađenja na računu.',
     points: [
-      'Iskusan majstor — radimo godinama u Kaluđerici',
+      'Iskusan majstor — radimo godinama u Beogradu',
       'Poštene cene, kažemo unapred koliko je',
       'Polovne i nove gume svih dimenzija na stanju',
       'Brza usluga — ne čeka se danima na termin',
@@ -75,7 +75,7 @@ const sr = {
     options: ['Zamena guma', 'Balansiranje', 'Polovne gume', 'Nove gume', 'Felne (prodaja/ispravljanje/farbanje)', 'Drugo / nisam siguran'],
     cta: 'Pošalji na WhatsApp',
     note: 'Otvara WhatsApp sa popunjenom porukom — ništa se ne šalje automatski dok ti ne potvrdiš.',
-    waGreeting: 'Zdravo Vesa! Želeo bih da zakažem termin.',
+    waGreeting: 'Zdravo ACA! Želeo bih da zakažem termin.',
     waLabels: { name: 'Ime', phone: 'Telefon', service: 'Usluga', vehicle: 'Vozilo', tireSize: 'Dimenzija', when: 'Termin', note: 'Napomena' },
     waDefault: 'Zdravo, zanima me termin za gume.',
   },
@@ -88,7 +88,7 @@ const sr = {
     phone: 'Telefon',
     hours: 'Radno vreme',
     navBtn: 'Otvori navigaciju',
-    mapTitle: 'Mapa — Vesa Vulkanizer',
+    mapTitle: 'Mapa — A.C.A No1',
     closed: 'Zatvoreno',
   },
   shopHours: [
@@ -120,9 +120,9 @@ const sr = {
     ask: 'Pitaj',
   },
   chat: {
-    agentName: 'Vesa — pomoćnik',
+    agentName: 'ACA No1 — pomoćnik',
     agentStatus: 'Obično odgovara odmah',
-    greeting: 'Zdravo! 👋 Ja sam Vesin pomoćnik. Pitaj me o gumama, felnama, ceni ili kako da zakažeš — tu sam.',
+    greeting: 'Zdravo! 👋 Ja sam pomoćnik radnje A.C.A No1. Pitaj me o gumama, felnama, ceni ili kako da zakažeš — tu sam.',
     waBtn: 'Piši na WhatsApp',
     callBtn: 'Pozovi',
     waDefault: 'Zdravo, zanima me termin za gume.',
@@ -141,7 +141,7 @@ const sr = {
 const en = {
   nav: {
     services: 'Services',
-    why: 'Why Vesa',
+    why: 'Why ACA',
     gallery: 'Gallery',
     location: 'Location',
     book: 'Book Appointment',
@@ -180,7 +180,7 @@ const en = {
     hl: 'for itself.',
     lead: 'Come to us when you need it done right — fast, honest and without any surprise charges.',
     points: [
-      'Experienced mechanic — serving Kaluđerica for years',
+      'Experienced mechanic — serving Belgrade for years',
       'Fair prices, we tell you upfront what it costs',
       'Used and new tires of all sizes in stock',
       'Fast service — no waiting days for an appointment',
@@ -215,7 +215,7 @@ const en = {
     options: ['Tire Change', 'Balancing', 'Used Tires', 'New Tires', 'Rims (sale/straightening/painting)', 'Other / not sure'],
     cta: 'Send via WhatsApp',
     note: 'Opens WhatsApp with a pre-filled message — nothing is sent automatically until you confirm.',
-    waGreeting: "Hello Vesa! I'd like to book an appointment.",
+    waGreeting: "Hello ACA! I'd like to book an appointment.",
     waLabels: { name: 'Name', phone: 'Phone', service: 'Service', vehicle: 'Vehicle', tireSize: 'Tire size', when: 'Appointment', note: 'Note' },
     waDefault: "Hello, I'd like to inquire about an appointment.",
   },
@@ -228,7 +228,7 @@ const en = {
     phone: 'Phone',
     hours: 'Working Hours',
     navBtn: 'Open Navigation',
-    mapTitle: 'Map — Vesa Vulkanizer',
+    mapTitle: 'Map — A.C.A No1',
     closed: 'Closed',
   },
   shopHours: [
@@ -260,9 +260,9 @@ const en = {
     ask: 'Ask',
   },
   chat: {
-    agentName: 'Vesa — Assistant',
+    agentName: 'ACA No1 — Assistant',
     agentStatus: 'Usually responds immediately',
-    greeting: "Hello! 👋 I'm Vesa's assistant. Ask me about tires, rims, prices or how to book — I'm here to help.",
+    greeting: "Hello! 👋 I'm the A.C.A No1 assistant. Ask me about tires, rims, prices or how to book — I'm here to help.",
     waBtn: 'Write on WhatsApp',
     callBtn: 'Call',
     waDefault: "Hello, I'd like to inquire about an appointment.",

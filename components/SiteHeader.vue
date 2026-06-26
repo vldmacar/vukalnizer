@@ -15,7 +15,7 @@
           </svg>
         </span>
         <span class="logo-text">
-          <strong>VESA</strong>
+          <strong>ACA No1</strong>
           <small>VULKANIZER</small>
         </span>
       </a>

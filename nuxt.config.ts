@@ -7,7 +7,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Vesa Vulkanizer — Kaluđerica | Gume, felne, balansiranje',
+      title: 'A.C.A No1 — Beograd | Gume, felne, balansiranje',
       htmlAttrs: { lang: 'sr' },
       meta: [
         { charset: 'utf-8' },
@@ -15,14 +15,14 @@ export default defineNuxtConfig({
         {
           name: 'description',
           content:
-            'Vesa Vulkanizer u Kaluđerici — montaža, demontaža i balansiranje guma, polovne i nove gume, čelične i alu felne. Ocena 4.2★. Živorada Jakovljevića 1, Kaluđerica. Tel: 063 203397.',
+            'A.C.A No1 — vulkanizer u Beogradu (Zvezdara) — montaža, demontaža i balansiranje guma, polovne i nove gume, čelične i alu felne. Smederevski put 3A, Beograd. Tel: 065 221 4144.',
         },
         { name: 'theme-color', content: '#0c0c0d' },
         // Open Graph
-        { property: 'og:title', content: 'Vesa Vulkanizer — Kaluđerica' },
+        { property: 'og:title', content: 'A.C.A No1 — Beograd' },
         {
           property: 'og:description',
-          content: 'Gume, felne, balansiranje. Brzo, pošteno, profesionalno. Ocena 4.2★.',
+          content: 'Gume, felne, balansiranje. Brzo, pošteno, profesionalno.',
         },
         { property: 'og:type', content: 'website' },
       ],

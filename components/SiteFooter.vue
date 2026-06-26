@@ -9,7 +9,7 @@
               <circle cx="20" cy="20" r="7" fill="none" stroke="var(--orange)" stroke-width="3" />
             </svg>
             <div>
-              <strong>VESA</strong>
+              <strong>ACA No1</strong>
               <small>VULKANIZER</small>
             </div>
           </div>

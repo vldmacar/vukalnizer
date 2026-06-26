@@ -13,11 +13,11 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: 'en' },
-  title: 'Vesa Vulkanizer — Kaluđerica | Tires, Rims, Balancing',
+  title: 'A.C.A No1 — Belgrade | Tires, Rims, Balancing',
   meta: [
-    { name: 'description', content: 'Tire shop Vesa in Kaluđerica — mounting, dismounting and balancing, used and new tires, steel and alloy rims. Rating 4.2★.' },
-    { property: 'og:title', content: 'Vesa Vulkanizer — Kaluđerica' },
-    { property: 'og:description', content: 'Tires, rims, balancing. Fast, fair, professional. Rating 4.2★.' },
+    { name: 'description', content: 'A.C.A No1 tire shop in Belgrade (Zvezdara) — mounting, dismounting and balancing, used and new tires, steel and alloy rims. Smederevski put 3A, Belgrade.' },
+    { property: 'og:title', content: 'A.C.A No1 — Belgrade' },
+    { property: 'og:description', content: 'Tires, rims, balancing. Fast, fair, professional.' },
   ],
 })
 
